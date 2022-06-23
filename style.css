@@ -19,6 +19,8 @@ ul {
 h1 {
 	text-align: center;
 	font-size: 60px;
+	padding: 20px;
+	border-bottom: 1px solid;
 }
 
 a {
@@ -27,7 +29,14 @@ a {
 	justify-content: center;
 	padding-top: 20px;
 	font-size: 30px;
+	color: rgb(109, 108, 108);
+
+	transition: color 0.3s;
+}
+
+a:hover {
 	color: black;
+	font-weight: 600;
 }
 
 .wrapper {
