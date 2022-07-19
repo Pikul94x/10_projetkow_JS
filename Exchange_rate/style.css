@@ -102,10 +102,13 @@ h1 {
 
 .back {
 	margin-top: 60px;
-	position: absolute;
+	position: relative;
 	font-size: 30px;
 	top: 5px;
 	text-decoration: none;
 	color: white;
 	font-weight: bold;
+	top: -300px;
+	left: 450px;
+
 }

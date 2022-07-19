@@ -84,11 +84,13 @@ li:last-child {
 
 .back {
 	margin-top: 60px;
-	position: absolute;
+	position: relative;
 	font-size: 30px;
 	top: 5px;
 	text-decoration: none;
 	color: black;
 	font-weight: bold;
+	top: -650px;
+	left: 450px;
 	
 }
